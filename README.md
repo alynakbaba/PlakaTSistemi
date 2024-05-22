@@ -1,1 +1,1 @@
-Plaka okuma sistemidir. İlk plaka tespitini yapar sonra plaka okumasını yapar.
+Plaka tanıma sistemidir. İlk plaka tespitini yapar sonra plaka okumasını yapar.
